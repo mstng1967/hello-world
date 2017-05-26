@@ -1,7 +1,7 @@
 
 # Movie Trailer Website
 
-==========
+
 
 This code generates a webpage with my favorite films.
 
